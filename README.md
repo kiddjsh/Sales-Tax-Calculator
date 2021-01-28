@@ -1,0 +1,2 @@
+# Sales-Tax-Calculator
+An application, using a solution algorithm where debugging diagnostics were employed to remove and correct  errors. The application asks for the name of the customer, one of three states, i.e., NJ, FL, or NY, how  many items were purchased, and the unit price of the items, then calculates the total sales and total  sales with taxes depending on state. NJ 7% tax, FL 6% tax, and NY 4% tax.
