@@ -1,0 +1,6 @@
+c:\users\kidder\documents\visual studio 2012\Projects\salesTax_iLabW6\salesTax_iLabW6\bin\Debug\salesTax_iLabW6.exe.config
+c:\users\kidder\documents\visual studio 2012\Projects\salesTax_iLabW6\salesTax_iLabW6\bin\Debug\salesTax_iLabW6.exe
+c:\users\kidder\documents\visual studio 2012\Projects\salesTax_iLabW6\salesTax_iLabW6\bin\Debug\salesTax_iLabW6.pdb
+c:\users\kidder\documents\visual studio 2012\Projects\salesTax_iLabW6\salesTax_iLabW6\obj\Debug\salesTax_iLabW6.csprojResolveAssemblyReference.cache
+c:\users\kidder\documents\visual studio 2012\Projects\salesTax_iLabW6\salesTax_iLabW6\obj\Debug\salesTax_iLabW6.exe
+c:\users\kidder\documents\visual studio 2012\Projects\salesTax_iLabW6\salesTax_iLabW6\obj\Debug\salesTax_iLabW6.pdb
